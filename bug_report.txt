@@ -8,4 +8,4 @@
          1. Open the APP
          2. Tap “Send Email” button   
      AR: App return different links not related to sending email
-     ER: App return  links related to sending email.
+     ER: App return  links related to sending email. 
